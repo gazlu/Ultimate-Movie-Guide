@@ -1,0 +1,11 @@
+E:\Sushant\apps\MoviesInfo\MoviesInfo\bin\Release\MoviesInfo.exe.config
+E:\Sushant\apps\MoviesInfo\MoviesInfo\bin\Release\MoviesInfo.exe
+E:\Sushant\apps\MoviesInfo\MoviesInfo\bin\Release\MoviesInfo.pdb
+E:\Sushant\apps\MoviesInfo\MoviesInfo\bin\Release\Newtonsoft.Json.dll
+E:\Sushant\apps\MoviesInfo\MoviesInfo\bin\Release\RestSharp.dll
+E:\Sushant\apps\MoviesInfo\MoviesInfo\bin\Release\Newtonsoft.Json.xml
+E:\Sushant\apps\MoviesInfo\MoviesInfo\bin\Release\RestSharp.xml
+E:\Sushant\apps\MoviesInfo\MoviesInfo\obj\Release\MoviesInfo.Properties.Resources.resources
+E:\Sushant\apps\MoviesInfo\MoviesInfo\obj\Release\MoviesInfo.csproj.GenerateResource.Cache
+E:\Sushant\apps\MoviesInfo\MoviesInfo\obj\Release\MoviesInfo.exe
+E:\Sushant\apps\MoviesInfo\MoviesInfo\obj\Release\MoviesInfo.pdb
